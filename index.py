@@ -10,11 +10,14 @@ elif n < 0:
 else:
     print("n is zero")
 
+#
 
 index = "Budi"
 print(index[0])
+# B
 
 name = ["Budi", "Siti", "Joko"]
 print(name[2])
+# Joko
 
 coordinate = (10.0,20.0)
